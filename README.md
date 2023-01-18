@@ -1,6 +1,4 @@
 # Pertemuan15
-# labspy12
-# Pertemuan 15
 • PIP merupakan package manager untuk mengelola package dan
 modul pada python. 
 
